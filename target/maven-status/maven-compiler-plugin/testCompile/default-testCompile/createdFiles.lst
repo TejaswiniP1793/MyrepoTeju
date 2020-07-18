@@ -1,0 +1,9 @@
+locators\FindAllLinks.class
+locators\Locator_partialLinkText.class
+locators\Locator_tagname.class
+locators\Locator_linkText.class
+locators\Locator_name.class
+locators\Locator_className.class
+locators\Locator_cssSelector.class
+locators\Locator_id.class
+locators\Locator_xpath.class
